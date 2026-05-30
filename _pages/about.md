@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "# AisyahFitriHidayati"
+title: "# Aisyah Fitri Hidayati"
 author_profile: true
 redirect_from: 
   - /about/
